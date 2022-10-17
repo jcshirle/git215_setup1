@@ -1,2 +1,2 @@
 # git215_setup
- Setup
+## Author: Jayna Shirley
